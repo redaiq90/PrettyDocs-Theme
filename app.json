@@ -1,0 +1,20 @@
+{
+    "name": "Heroku app.json Maker Bot",
+    "description": "A Telegram bot for making Heroku app.json File by @AbirHasan2005",
+    "keywords": [
+        "telegram",
+        "bot",
+        "heroku",
+        "app.json",
+        "app",
+        "json",
+        "maker",
+        "generator"
+    ],
+    "repository": "https://github.com/redaiq90/",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+}
