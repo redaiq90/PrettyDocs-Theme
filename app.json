@@ -14,7 +14,7 @@
     "repository": "https://github.com/redaiq90/",
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "https://github.com/zeke/harp-buildpack.git"
         }
-    ],
+    ]
 }
